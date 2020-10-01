@@ -1,0 +1,1 @@
+@java -cp "F:\javaCode\Web\out\production\Web" SQL.MySQLClient %*
