@@ -1,0 +1,1 @@
+@java -cp "F:\javaCode\Web\out\production\Web;F:\javaCode\Web\lib\mysql-connector-java-5.1.47.jar" SQL.MySQLClient %*
